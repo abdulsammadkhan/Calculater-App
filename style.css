@@ -1,0 +1,23 @@
+.main{
+    border: 2px solid blue;
+    border-radius: 10px;
+    width: 350px;
+    height: 300px;
+    margin: 0px auto;
+    text-align: center;
+}
+.clear{
+    width: 292px;
+    height: 50px;
+}
+.numbtn{
+    width: 70px;
+    height: 50px;
+}
+.numbtntwo{
+    width: 107px;
+    height: 50px;
+}
+.input{
+    height: 40px;
+}
